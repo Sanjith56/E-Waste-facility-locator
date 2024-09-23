@@ -1,0 +1,16 @@
+{
+    "name": "Vidyarthi Bhavan",
+    "address": "32, Gandhi Bazaar, Near Gandhi Bazaar Circle, Basavanagudi, Bangalore",
+    "latitude": 12.911500,
+    "longitude": 77.475570
+}
+
+
+This is entry format for the POST method
+
+open postman
+create new http request
+in the search bar type-> http://127.0.0.1:5000/add_location
+click n body then -> raw then -> select JSON file
+now in that blank space copy paste the above format and click on send
+once it updates u can change the data in the format and click send to contine updating
